@@ -40,7 +40,7 @@ public class Kata{
 	}
 	
 	public static int isDifference(int num1, int num2){
-		result = Math.abs(num1 - num2);
+		int result = Math.abs(num1 - num2);
 		return result;
 	}
 
